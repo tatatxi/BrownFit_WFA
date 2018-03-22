@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\bin\Debug\ExemplosLuis.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\bin\Debug\ExemplosLuis.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\bin\Debug\ExemplosLuis.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\obj\Debug\ExemplosLuis.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\obj\Debug\ExemplosLuis.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ExemplosLuis\ExemplosLuis\obj\Debug\ExemplosLuis.pdb

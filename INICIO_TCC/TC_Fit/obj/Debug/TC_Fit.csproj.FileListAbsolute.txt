@@ -1,0 +1,2 @@
+c:\users\aluno\documents\visual studio 2015\Projects\INICIO_TCC\TC_Fit\bin\Debug\TC_Fit.exe.config
+E:\Thanara\INICIO_TCC\TC_Fit\bin\Debug\TC_Fit.exe.config
